@@ -1,0 +1,3 @@
+Executing: ClassifyRaster "pleiades_clip.tif - Band_4" E:\LAVORO\VM_SHARED\dune\AD_ALF\random_trees.ecd E:\LAVORO\VM_SHARED\dune\AD_ALF\random_trees_nir.tif #
+Start Time: Wed Jun 13 12:24:21 2018
+Succeeded at Wed Jun 13 12:24:22 2018 (Elapsed Time: 1,56 seconds)

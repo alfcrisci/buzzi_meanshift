@@ -1,0 +1,4 @@
+Executing: SegmentMeanShift "pleiades_clip.tif - Band_4" E:\LAVORO\VM_SHARED\dune\AD_ALF\mean_shift_nir.tif 20 10 20 #
+Start Time: Wed Jun 13 12:03:05 2018
+Succeeded at Wed Jun 13 12:08:16 2018 (Elapsed Time: 5 minutes 11 seconds)
+

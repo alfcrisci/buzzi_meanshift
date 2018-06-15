@@ -1,0 +1,70 @@
+{
+  "EsriClassifierDefinitionFile" : 0,
+  "FileVersion" : 3,
+  "NumberDefinitions" : 1,
+  "Definitions" : [
+    {
+      "Classifier" : "RandomTrees",
+      "NumberClasses" : 5,
+      "RasterIsSegmented" : false,
+      "NumberBands" : 4,
+      "Classes" : [
+        {
+          "ClassValue" : 1,
+          "ClassName" : "Class 1",
+          "Red" : 169,
+          "Green" : 3,
+          "Blue" : 33
+        },
+        {
+          "ClassValue" : 2,
+          "ClassName" : "Class 2",
+          "Red" : 16,
+          "Green" : 236,
+          "Blue" : 190
+        },
+        {
+          "ClassValue" : 3,
+          "ClassName" : "Class 3",
+          "Red" : 212,
+          "Green" : 237,
+          "Blue" : 81
+        },
+        {
+          "ClassValue" : 4,
+          "ClassName" : "Class 4",
+          "Red" : 153,
+          "Green" : 37,
+          "Blue" : 142
+        },
+        {
+          "ClassValue" : 5,
+          "ClassName" : "Class 5",
+          "Red" : 210,
+          "Green" : 146,
+          "Blue" : 109
+        }
+      ],
+      "TrainingSampleFile" : "training_sites_pleiades_clip_tif_ Band_4.shp",
+      "Raster1" : "Band_4",
+      "MaxNumTrees" : 50,
+      "MaxTreeDepth" : 30,
+      "MaxNumSamplesPerClass" : 1000,
+      "CrossValidationRate" : 0.98959107790142298,
+      "NumberTrees" : 1,
+      "VariableImportance" : [
+        0.21323530375957489,
+        0.2867647111415863,
+        0.24264706671237946,
+        0.25735294818878174
+      ],
+      "SizeOfByteArray" : 1152,
+      "MaxStringSizeUsed" : 1024,
+      "NumberOfStrings" : 2,
+      "ByteArrayAsArrayOfStrings" : [
+        "H4sIAAAAAAAAC-1ZS2_jNhC-L7D_QXvoqbZADt--9d7eeimKQtDaSlaoLKmUnCYo-t9L6pHIohQ5L0tqSyQHzvCl7xvODMff_fLDTz_usI8-fzo-BDpMD9kxKHUUFTvvy5csj9L93faYbGvNttJ8_uR5XrpPwqKww1jdL8Jjntg-JrQRhfsyvouCu1AbMVSyLPsaRFpn2ozzJWDJgVCJhcREsGiLUD3MTAniY57pMkz3UfcoYanj-2qMaTr7027YdvdZYrq07R7KnXfz2AnLcOf96oGPCRBGELW74Y0RSC44FRg_CiiYPuKiFrQr2AY-E4SBorLSeb_VH9oAVh8kLoIKm_gmjnQrtB8UJkl7OtvdZ6e0bAWZPgSOcB-WXSGqhKUO4zROb4M81OGx2LXHOxVRUJwMtLdhaQ-DWsUxvA_MStFtpuPqlKyrOUR5-c2w8ySM06Dmst0XPy6111lRmCMlsYEzztLgJksO3b1yHWe6GOXLpeyRNdaRWOIO3X7DHfY3vf-GAAtS-ZBHdhDatH-N0qLYfMlLzAh3zSjumxHrLH4M85ctzZ5d2hzdWuHGIxuPNtvUBtaO3Haw-RoVZXVhg_hwv_O2XWTT7NCZ5c5t9q0tADmKnhW017rbjCmcInuVHU2a6WN9D-qDYWfEz-nQpvvMbnoflw9D2jDJvxmQ0NB-hyjQcfH7ziNYuPoKolo_MLvSNn5pQF3kSVz2kazb1vvLmt_OsPbHyVwMc27sA5LAjQ9RVBkXZxzb9wgZNpNoxzD1vb8vpMTFrH8x2UoogRkYgS4jCIPASCnJCMOMQ83I0HTbLFG-oAx1m50CF3MHE9wpTtdBHZmVOeUzWUVjRQVwQ1x1l-B55jh_C3Nkgjmp-DqYG-PmVcy9Gi4u14HWDHZOnuycS7-KDxzk5fHB9SDn0LvUNMjDNPKu_1q5nU6BxVcSSq-D1mT4cr94kWgBnfVaS18Q25g0T0xOJaU2FuHnwhf3lfrI8AWjeceyvMLAaT6aOPxEnLGbOl8H",
+        "_n7-GFz4Fgn9MhzyKFgDV7oPlrv2ysGazLLEOvzxddCaejiDco_fwDV4_HO43LkfBheVs1YywCdccS4Ul4I9xaLnwpfwkfzId7N5xq-DOlDzBjCfKmGpUwq4YELimroqxcDk8qA25Xnw6Ptu4EXV58NdfOWeZzL7YqOPsmWZLx6IG9f1PCZnBiASM4WNA1IX1H3EmzzPVD4yGmGXlY-8ax3j9ckbHS2SLcvOZyhMkzMzl5hgLgmhiiNFxKSZSx-xt5i5W-boM7cSDzXvy96mRohQRME4KqKal30dXwWHy-Ore096fJDRwtSy-JjhwQ5nfBBkUk_a_OTWpqoVH-wFfLhuvs_HaAFlWXzMEMDP7wdgbhJQbNBXcEkAFz6It3g2NxHtl19GSwrLYu46qeoUXHglaM2bqGJofrjxGX6L8aopNtaRfV7HdCfBWkmN4DpoTUW0_03LtgvTsdFqx7Is612TsVe_JUZfEv_F0tBUZRO7Xu3feQ__AUUelEd0LAAA"
+      ]
+    }
+  ]
+}

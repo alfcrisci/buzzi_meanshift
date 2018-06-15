@@ -1,0 +1,5 @@
+Executing: TrainRandomTreesClassifier "pleiades_clip.tif - Band_4" "E:\LAVORO\VM_SHARED\dune\AD_ALF\training_sites_pleiades_clip_tif_ Band_4.shp" E:\LAVORO\VM_SHARED\dune\AD_ALF\random_trees.ecd # 50 30 1000 COLOR;MEAN
+Start Time: Wed Jun 13 12:22:56 2018
+train accuracy = 0,9985 
+variable importance = 0,2248 0,2272 0,3044 0,2436 
+Succeeded at Wed Jun 13 12:22:56 2018 (Elapsed Time: 0,21 seconds)

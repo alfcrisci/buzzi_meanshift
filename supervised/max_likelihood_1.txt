@@ -1,0 +1,4 @@
+Executing: TrainMaximumLikelihoodClassifier "pleiades_clip.tif - Band_4" "E:\LAVORO\VM_SHARED\dune\AD_ALF\training_sites_pleiades_clip_tif_ Band_4.shp" E:\LAVORO\VM_SHARED\dune\AD_ALF\max_likelihood.ecd # COLOR;MEAN
+Start Time: Wed Jun 13 12:27:36 2018
+cross validation rate = 0,9978 
+Succeeded at Wed Jun 13 12:27:37 2018 (Elapsed Time: 0,35 seconds)

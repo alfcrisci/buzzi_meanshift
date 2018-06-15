@@ -1,0 +1,4 @@
+Executing: TrainSupportVectorMachineClassifier "pleiades_clip.tif - Band_4" "E:\LAVORO\VM_SHARED\dune\AD_ALF\training_sites_pleiades_clip_tif_ Band_4.shp" E:\LAVORO\VM_SHARED\dune\AD_ALF\support_vector_machine.ecd # 500 COLOR;MEAN
+Start Time: Wed Jun 13 12:30:42 2018
+cross validation rate = 0,9964 
+Succeeded at Wed Jun 13 12:30:50 2018 (Elapsed Time: 8,56 seconds)

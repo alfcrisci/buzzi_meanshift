@@ -1,0 +1,5 @@
+processing.run("grass7:i.segment", {'input':['E:/LAVORO/VM_SHARED/dune/AD_ALF/pleiades_clip.tif'],
+'threshold':0.5,'method':0,'similarity':0,'minsize':1,'memory':300,'iterations':20,'seeds':None,'bounds':None,
+'-d':False,'-w':False,'output':'C:/Users/perna/AppData/Local/Temp/processing_aa04d101d91740f3a8023915717e5df0/ecd0aca523514f1986dbb0c58e35912c/output.tif',
+'goodness':'C:/Users/perna/AppData/Local/Temp/processing_aa04d101d91740f3a8023915717e5df0/16ac12bca2c64b47a737dcf8a02c4536/goodness.tif','GRASS_REGION_PARAMETER':None,'GRASS_REGION_CELLSIZE_PARAMETER':0,'GRASS_RASTER_FORMAT_OPT':'','GRASS_RASTER_FORMAT_META':''})
+elapsed time: 2 min 15 sec

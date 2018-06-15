@@ -1,0 +1,13 @@
+Executing: TrainIsoClusterClassifier "pleiades_clip.tif - Band_4" 5 E:\LAVORO\VM_SHARED\dune\AD_ALF\iso_5.ecd # 20 20 10 COLOR;MEAN 5 0,5
+Start Time: Wed Jun 13 12:17:25 2018
+Iteration 1: 0 removed, 0 merged, 5 remaining.
+Iteration 2: 0 removed, 0 merged, 5 remaining.
+Iteration 3: 0 removed, 0 merged, 5 remaining.
+Iteration 4: 0 removed, 0 merged, 5 remaining.
+Iteration 5: 0 removed, 0 merged, 5 remaining.
+Iteration 6: 0 removed, 0 merged, 5 remaining.
+Iteration 7: 0 removed, 0 merged, 5 remaining.
+Iteration 8: 0 removed, 0 merged, 5 remaining.
+Iteration 9: 0 removed, 0 merged, 5 remaining.
+Iteration 10: 0 removed, 0 merged, 5 remaining.
+Succeeded at Wed Jun 13 12:17:27 2018 (Elapsed Time: 1,78 seconds)
