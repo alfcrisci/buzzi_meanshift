@@ -18,7 +18,7 @@ python3 setup.py install
 
 # Usage:
 
-python3 raster_pms.py inraster outraster 
+python3 raster_pms.py inraster outraster spatial_radius (int) range_radius (float) min_density ( int) 
 
 
 ```
